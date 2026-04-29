@@ -8,8 +8,8 @@
 * `202307ccpa/`：2023 七月 嗨讀漫閱季
 * `202401tica/`：2024 一月 嗨讀動漫節
 * `202407ccpa/`：2024 七月 嗨讀漫閱季
-* `202501tibe/`：2025 一月 嗨讀動漫節
-* `202507tibe/`：2025 七月 嗨讀漫閱季
+* `202501tica/`：2025 一月 嗨讀動漫節
+* `202507ccpa/`：2025 七月 嗨讀漫閱季
   
 🔹 tica/ccpa 固定會有頁面
 `index.html`：活動主頁
@@ -46,9 +46,9 @@ Floatboard
 Hero（主視覺）
 Award（得獎公告區）
 Comic Vote（投票連結）
-SNS（社群活動IG,Facebook連結，獎品）
-Coupon（優惠區：滿額抽好禮）
-banner（各種活動連結）
+SNS（社群活動）
+Coupon（優惠區）
+banner（活動連結）
 Pop_up66（快閃優惠）
 booklist（推薦書單區）
 
@@ -57,8 +57,7 @@ FAQ
 CTA 區塊
 Gift(點擊儲存獎品)
 Pub list(出版社列表)
-Banner / 圖文區
-quize.html（答題頁/答題結果頁)
+Quiz / Result（答題頁/答題結果頁)
 
 * 建立可重用模板，單次出現的可依序至於重複區域之後Footer之前
 * 減少每次切版時間
