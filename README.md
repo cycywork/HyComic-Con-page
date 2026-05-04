@@ -71,3 +71,14 @@ Quiz / Result（答題頁/答題結果頁)
 * 整理 CSS 命名規則
 * 使檔案更簡潔去掉無效和重複的css
 * 建立通用漫畫相關活動頁骨架
+
+---
+
+## 🧩 新增模板
+
+* `comic-template/`：通用漫畫活動頁骨架
+  * `index.html`：主頁（含 Navbar / Hero / Award / Vote / SNS / Coupon / Banner / Pop_up66 / Booklist / Floatboard / Footer）
+  * `quiz.html`：答題頁模板
+  * `quiz-end.html`：答題結果頁模板
+  * `css/design.css`：基本樣式
+  * `js/main.js`：基本互動（快閃優惠彈窗）
